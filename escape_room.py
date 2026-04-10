@@ -102,6 +102,8 @@ class GlobalGraph:
         return self.edges.get(name, [])
 
 
+
+
 class PuzzleGraph:
     """
     Sub-grafo ponderado independiente asociado a un nodo bloqueado.
